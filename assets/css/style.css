@@ -7,3 +7,17 @@ body {
     color: #f5e5d4;
 }
 
+/* navigation */
+
+a {
+    color: #fc9139;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+nav > a:hover {
+    color: rgb(252, 6, 6);
+}
