@@ -39,6 +39,16 @@ nav > a:hover {
     width: 100%;
 }
 
+footer {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
+p > a:hover {
+    color: rgb(252, 6, 6);
+}
+
 /* media queries */
 
 /* Medium devices (landscape tablets, 768px and up) */
