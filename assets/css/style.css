@@ -29,3 +29,12 @@ nav {
 nav > a:hover {
     color: rgb(252, 6, 6);
 }
+
+/* images not including head image */
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
