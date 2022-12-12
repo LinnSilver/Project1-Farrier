@@ -7,6 +7,14 @@ body {
     color: #f5e5d4;
 }
 
+h1 {
+    color: #fc9139;
+    font-size: 250%;
+    letter-spacing: 4px;
+    font-weight: bold;
+    text-align: center;
+}
+
 /* navigation */
 
 a {
