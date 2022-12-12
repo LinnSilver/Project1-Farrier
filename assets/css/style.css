@@ -31,10 +31,6 @@ nav {
 nav > a:hover {
     color: rgb(252, 6, 6);
 }
-/* line under nav side */
-.here a:active {
-    border-bottom: solid 1px;
-}
 
 /* images not including head image */
 
