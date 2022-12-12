@@ -41,6 +41,13 @@ nav > a:hover {
     width: 100%;
 }
 
+.pictur {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
 /* footer */
 footer {
     text-align: center;
