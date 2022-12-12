@@ -48,6 +48,23 @@ nav > a:hover {
     width: 60%;
 }
 
+/* list */
+#first {
+    padding-left: 20px;
+}
+
+#second {
+    padding-left: 20px;
+}
+
+#therd {
+    padding-left: 20px;
+}
+
+#forth {
+    padding-left: 20px;
+}
+
 /* footer */
 footer {
     text-align: center;
