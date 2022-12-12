@@ -19,6 +19,8 @@ h1 {
 
 a {
     color: #fc9139;
+    margin-right: 20px;
+    text-decoration: none;
 }
 
 nav {
@@ -39,6 +41,7 @@ nav > a:hover {
     width: 100%;
 }
 
+/* footer */
 footer {
     text-align: center;
     font-weight: bold;
@@ -49,7 +52,7 @@ p > a:hover {
     color: rgb(252, 6, 6);
 }
 
-/* media queries */
+/* Media queries */
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
