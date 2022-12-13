@@ -1,4 +1,5 @@
 body {
+
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: medium;
     letter-spacing: 1px;
@@ -49,19 +50,19 @@ nav > a:hover {
 }
 
 /* list */
-#first {
+.first {
     padding-left: 20px;
 }
 
-#second {
+.second {
     padding-left: 20px;
 }
 
-#therd {
+.therd {
     padding-left: 20px;
 }
 
-#forth {
+.forth {
     padding-left: 20px;
 }
 
@@ -86,6 +87,13 @@ p > a:hover {
         padding-left: 100px;
         padding-right: 100px;
     }
+    .pic {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
 }
 
 /* Extra large devices */
@@ -93,6 +101,13 @@ p > a:hover {
     section {
         font-size: large;
         letter-spacing: 2px;
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+    .pic {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         padding-left: 300px;
         padding-right: 300px;
     }
