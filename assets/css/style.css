@@ -16,6 +16,8 @@ h1 {
     text-align: center;
 }
 
+
+
 /* navigation */
 
 a {
@@ -38,11 +40,20 @@ nav > a:hover {
 .pictur {
     display: block;
     margin-left: auto;
-    margin-right: auto;
-    width: 60%;
+
+    width: 100%;
 }
 
+/* ul list*/
+ul {
+    list-style-type: none;
+    columns: 4;
+    -webkit-columns: 4;
+    -moz-columns: 4;
+  }
+  
 /* list */
+
 .first {
     padding-left: 20px;
 }
@@ -72,20 +83,20 @@ p > a:hover {
 
 /* Media queries */
 
+
+
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     section {
         font-size: large;
         letter-spacing: 1px;
-        padding-left: 100px;
-        padding-right: 100px;
+       
     }
-    .pic {
+    .pictur {
         display: block;
         margin-left: auto;
-        margin-right: auto;
-        padding-left: 100px;
-        padding-right: 100px;
+     
+       
     }
 }
 
@@ -94,14 +105,17 @@ p > a:hover {
     section {
         font-size: large;
         letter-spacing: 2px;
-        padding-left: 300px;
-        padding-right: 300px;
+        margin-left: 20%;
+    
     }
-    .pic {
+    .pictur {
         display: block;
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 300px;
-        padding-right: 300px;
+      
+        size: 60%;
+        margin-left: 20%;
+       
+    }
+    div {
+        margin-right: 20%;
     }
 }
