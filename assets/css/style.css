@@ -47,22 +47,26 @@ ul {
     -moz-columns: 4;
   }
   
-/* list */
-
+/* Price list */
 .first {
-    padding-left: 20px;
+    text-align: left;
+    padding-bottom: 5px;
 }
 
 .second {
     padding-left: 20px;
+    padding-bottom: 5px;
 }
 
-.therd {
+
+.third {
     padding-left: 20px;
+    padding-bottom: 5px;
 }
 
-.forth {
-    padding-left: 20px;
+.fourth {
+    padding-left: 30px;
+    padding-bottom: 5px;
 }
 
 /* footer */
