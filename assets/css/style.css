@@ -94,34 +94,26 @@ p>a:hover {
         margin-left: 15%;
     }
 
-    /* ul list*/
-ul {
-    list-style-type: none;
-    columns: 4;
-    -webkit-columns: 4;
-    -moz-columns: 4;
-}
+    /* Price list */
+    .first {
+        text-align: left;
+        padding-bottom: 5px;
+    }
 
-/* Price list */
-.first {
-    text-align: left;
-    padding-bottom: 5px;
-}
+    .second {
+        padding-left: 20px;
+        padding-bottom: 5px;
+    }
 
-.second {
-    padding-left: 20px;
-    padding-bottom: 5px;
-}
+    .third {
+        padding-left: 20px;
+        padding-bottom: 5px;
+    }
 
-.third {
-    padding-left: 20px;
-    padding-bottom: 5px;
-}
-
-.fourth {
-    padding-left: 30px;
-    padding-bottom: 5px;
-}
+    .fourth {
+        padding-left: 20px;
+        padding-bottom: 5px;
+    }
 }
 
 /* Extra large devices */
@@ -138,5 +130,26 @@ ul {
     div {
         margin-right: 30%;
         margin-left: 30%;
+    }
+
+    /* Price list */
+    .first {
+        text-align: left;
+        padding-bottom: 5px;
+    }
+
+    .second {
+        padding-left: 30px;
+        padding-bottom: 5px;
+    }
+
+    .third {
+        padding-left: 30px;
+        padding-bottom: 5px;
+    }
+
+    .fourth {
+        padding-left: 30px;
+        padding-bottom: 5px;
     }
 }
