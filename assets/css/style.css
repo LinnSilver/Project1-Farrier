@@ -116,8 +116,46 @@ p>a:hover {
     }
 }
 
-/* Extra large devices */
+/* large devices */
 @media only screen and (min-width: 1200px) {
+    section {
+        font-size: large;
+        letter-spacing: 2px;
+    }
+
+    .pictur {
+        display: block;
+    }
+
+    div {
+        margin-right: 20%;
+        margin-left: 20%;
+    }
+
+    /* Price list */
+    .first {
+        text-align: left;
+        padding-bottom: 5px;
+    }
+
+    .second {
+        padding-left: 20px;
+        padding-bottom: 5px;
+    }
+
+    .third {
+        padding-left: 20px;
+        padding-bottom: 5px;
+    }
+
+    .fourth {
+        padding-left: 20px;
+        padding-bottom: 5px;
+    }
+}
+
+/* Extra large devices */
+@media only screen and (min-width: 1920px) {
     section {
         font-size: large;
         letter-spacing: 2px;
