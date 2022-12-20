@@ -65,6 +65,14 @@ nav>a:hover {
     padding-bottom: 5px;
 }
 
+/* For contact form */
+label, input, textarea {
+    display: block;
+ }
+ label {
+    margin-top: 5px;
+ }
+
 /* footer */
 footer {
     text-align: center;

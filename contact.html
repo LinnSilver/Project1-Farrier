@@ -37,13 +37,17 @@
 
             <!-- Contakt form -->
             <form action="text">
-                <input type="text" required placeholder="Enter your name">
-                <br>
-                <input type="tel" required placeholder="Your mobile number">
-                <br>
-                <input type="email" placeholder="Email">
-                <br>
-                <textarea name="contact" id="info" cols="30" rows="10" placeholder="Tell me everything"></textarea>
+                <label for="name">Name</label>
+                <input id="name" type="text" required placeholder="Enter your name">
+
+                <label for="number">Number</label>
+                <input id="number" type="tel" required placeholder="Your mobile number">
+
+                  <label for="email">Email</label>
+                <input id="email" type="email" required placeholder="Email">
+
+                <label for="textarea">Information about your horse</label>
+                <textarea name="textarea" id="info" cols="30" rows="10" required placeholder="Tell me everything"></textarea>
                 <br>
                 <input type="submit" value="Send">
             </form>
