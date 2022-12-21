@@ -27,7 +27,6 @@ a {
 
 nav {
     text-align: center;
-   
     padding: 0.75rem;
 }
 
@@ -48,22 +47,22 @@ nav>a:hover {
 /* Price list */
 .first {
     text-align: left;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
 }
 
 .second {
     padding-left: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
 }
 
 .third {
     padding-left: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
 }
 
 .fourth {
     padding-left: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
 }
 
 /* For contact form */
@@ -82,8 +81,6 @@ label, input, textarea {
     margin-top: 7px;
     margin-bottom: 1px;
  }
-
-
 
 /* footer */
 footer {
@@ -117,22 +114,21 @@ p>a:hover {
     /* Price list */
     .first {
         text-align: left;
-        padding-bottom: 5px;
+       
     }
 
     .second {
         padding-left: 20px;
-        padding-bottom: 5px;
+    
     }
 
     .third {
         padding-left: 20px;
-        padding-bottom: 5px;
+     
     }
 
     .fourth {
         padding-left: 20px;
-        padding-bottom: 5px;
     }
 }
 
@@ -155,22 +151,22 @@ p>a:hover {
     /* Price list */
     .first {
         text-align: left;
-        padding-bottom: 5px;
+        padding-bottom: 10px;
     }
 
     .second {
         padding-left: 20px;
-        padding-bottom: 5px;
+        padding-bottom: 10px;
     }
 
     .third {
         padding-left: 20px;
-        padding-bottom: 5px;
+        padding-bottom: 10px;
     }
 
     .fourth {
         padding-left: 20px;
-        padding-bottom: 5px;
+        padding-bottom: 10px;
     }
 }
 
@@ -193,21 +189,21 @@ p>a:hover {
     /* Price list */
     .first {
         text-align: left;
-        padding-bottom: 5px;
+        padding-bottom: 20px;
     }
 
     .second {
         padding-left: 30px;
-        padding-bottom: 5px;
+        padding-bottom: 20px;
     }
 
     .third {
         padding-left: 30px;
-        padding-bottom: 5px;
+        padding-bottom: 20px;
     }
 
     .fourth {
         padding-left: 30px;
-        padding-bottom: 5px;
+        padding-bottom: 20px;
     }
 }
