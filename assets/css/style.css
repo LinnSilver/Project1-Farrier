@@ -1,7 +1,7 @@
 body {
-
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: medium;
+    font-family: 'Chivo', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5rem;
     letter-spacing: 1px;
     padding: 10px;
     background-color: black;
@@ -20,14 +20,15 @@ h1 {
 
 a {
     color: #fc9139;
-    margin-right: 20px;
+    font-size: 90%;
+    margin-right: 0.75rem;
     text-decoration: none;
 }
 
 nav {
     text-align: center;
-    font-weight: bold;
-    padding: 10px;
+   
+    padding: 0.75rem;
 }
 
 .active_page {
@@ -89,7 +90,7 @@ p>a:hover {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     section {
-        font-size: large;
+        font-size: 1rem;
         letter-spacing: 1px;
     }
 
@@ -127,7 +128,7 @@ p>a:hover {
 /* large devices */
 @media only screen and (min-width: 1200px) {
     section {
-        font-size: large;
+        font-size: 110%;
         letter-spacing: 2px;
     }
 
@@ -136,8 +137,8 @@ p>a:hover {
     }
 
     div {
-        margin-right: 20%;
-        margin-left: 20%;
+        margin-right: 25%;
+        margin-left: 25%;
     }
 
     /* Price list */
@@ -165,7 +166,7 @@ p>a:hover {
 /* Extra large devices */
 @media only screen and (min-width: 1920px) {
     section {
-        font-size: large;
+        font-size: 125%;
         letter-spacing: 2px;
     }
 
