@@ -20,6 +20,8 @@ h3 {
     padding-top: 25px;
 }
 
+
+
 /* Top navigation */
 a {
     color: #fc9139;
@@ -85,6 +87,10 @@ label, input, textarea {
 label {
     margin-top: 10px;
 }
+.required:after {
+    content:" *";
+    color: red;
+  }
 
 #contact_button {
     width: 80px;
