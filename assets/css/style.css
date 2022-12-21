@@ -79,9 +79,16 @@ label, input, textarea {
     margin-right: auto;
     text-align: left;
  }
+ 
  label {
-    margin-top: 7px;
-    margin-bottom: 1px;
+    margin-top: 10px;
+   
+ }
+
+ #contact_button {
+    width: 80px;
+    text-align: center;
+    margin-top: 20px;
  }
 
 
