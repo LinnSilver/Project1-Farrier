@@ -16,8 +16,11 @@ h1 {
     text-align: center;
 }
 
-/* Top navigation */
+h3 {
+    padding-top: 25px;
+}
 
+/* Top navigation */
 a {
     color: #fc9139;
     font-size: 90%;
@@ -68,7 +71,6 @@ nav>a:hover {
 }
 
 /* For contact form */
-
 label, input, textarea {
     display: block;
     align-items: center;
@@ -78,18 +80,17 @@ label, input, textarea {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
- }
- 
- label {
-    margin-top: 10px;
-   
- }
+}
 
- #contact_button {
+label {
+    margin-top: 10px;
+}
+
+#contact_button {
     width: 80px;
     text-align: center;
     margin-top: 20px;
- }
+}
 
 
 /* footer */
@@ -124,17 +125,17 @@ p>a:hover {
     /* Price list */
     .first {
         text-align: left;
-       
+
     }
 
     .second {
         padding-left: 20px;
-    
+
     }
 
     .third {
         padding-left: 20px;
-     
+
     }
 
     .fourth {
