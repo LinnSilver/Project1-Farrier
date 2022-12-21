@@ -9,7 +9,7 @@
     <meta name="keywords" content="Elin Bard, Farrier">
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Elin Bard your Farrier -Contact</title>
+    <title>Elin Bard your Farrier - Contact</title>
 </head>
 
 <body>
@@ -37,20 +37,20 @@
 
             <!-- Contakt form -->
           
-            <form action="text">
+            <form method="POST" action="https://formdump.codeinstitute.net">
                 <label for="name">Name</label>
-                <input id="name" type="text" required placeholder="Enter your name">
+                <input name="name" type="text" required placeholder="Enter your name">
 
                 <label for="number">Number</label>
-                <input id="number" type="tel" required placeholder="Your mobile number">
+                <input name="number" type="tel" required placeholder="Your mobile number">
 
                   <label for="email">Email</label>
-                <input id="email" type="email" required placeholder="Email">
+                <input name="email" type="email" required placeholder="Email">
 
                 <label for="textarea">Information about your horse</label>
-                <textarea name="textarea" id="info" cols="30" rows="10" required placeholder="Tell me everything"></textarea>
+                <textarea name="textarea" cols="30" rows="10" required placeholder="Tell me everything"></textarea>
                
-                <input type="submit" value="Send">
+                <input id="button" type="submit" value="Send">
             </form>
         </div>
         </section>
