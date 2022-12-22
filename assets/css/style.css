@@ -22,6 +22,11 @@ h3 {
     padding-top: 25px;
 }
 
+hr {
+    margin-top: 25px;
+}
+
+
 /* Top navigation */
 a {
     color: #fc9139;
