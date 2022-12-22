@@ -106,16 +106,6 @@ footer {
     padding: 10px;    
 }
 
-footer ul {
-    display: block;
-    list-style-type: none;   
-    margin-left: 45%;
-}
-
-footer li {
-    float: left;
-}
-
 .fa-facebook{
     color: #4267B2;
 }
