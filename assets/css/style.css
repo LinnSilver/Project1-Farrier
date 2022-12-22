@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Chivo&display=swap');
- 
+
 body {
     font-family: 'Chivo', sans-serif;
     font-size: 1rem;
@@ -12,7 +12,7 @@ body {
 
 h1 {
     color: #fc9139;
-    font-size: 300%;
+    font-size: 250%;
     letter-spacing: 4px;
     font-weight: bold;
     text-align: center;
@@ -26,12 +26,11 @@ hr {
     margin-top: 25px;
 }
 
-
 /* Top navigation */
 a {
     color: #fc9139;
     font-size: 90%;
-    margin-right: 0.75rem;
+    margin-right: 0.7rem;
     text-decoration: none;
 }
 
@@ -48,7 +47,7 @@ nav>a:hover {
     color: rgb(252, 6, 6);
 }
 
-/* all images, not including head image */
+/* All images, not including head image */
 .picture {
     display: block;
     width: 100%;
@@ -63,17 +62,17 @@ nav>a:hover {
 }
 
 .second {
-    padding-left: 10px;
+    padding-left: 7px;
     padding-bottom: 7px;
 }
 
 .third {
-    padding-left: 10px;
+    padding-left: 7px;
     padding-bottom: 7px;
 }
 
 .fourth {
-    padding-left: 10px;
+    padding-left: 7px;
     padding-bottom: 7px;
 }
 
@@ -81,7 +80,7 @@ nav>a:hover {
 label, input, textarea {
     display: block;
     align-items: center;
-    width: 100%;
+    width: 85%;
     max-width: 400px;
     padding: 10px 15px;
     margin-left: auto;
@@ -92,8 +91,9 @@ label, input, textarea {
 label {
     margin-top: 10px;
 }
+
 .required:after {
-    content:" *";
+    content: " *";
     color: red;
 }
 
@@ -104,18 +104,18 @@ label {
 }
 
 
-/* footer */
+/* Footer */
 footer {
     text-align: center;
     font-weight: bold;
-    padding: 10px;    
+    padding: 10px;
 }
 
-.fa-facebook{
+.fa-facebook {
     color: #4267B2;
 }
 
-.fa-instagram{
+.fa-instagram {
     color: #b347f1;
 }
 
