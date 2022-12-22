@@ -22,8 +22,6 @@ h3 {
     padding-top: 25px;
 }
 
-
-
 /* Top navigation */
 a {
     color: #fc9139;
@@ -92,7 +90,7 @@ label {
 .required:after {
     content:" *";
     color: red;
-  }
+}
 
 #contact_button {
     width: 80px;
@@ -105,7 +103,21 @@ label {
 footer {
     text-align: center;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px;    
+}
+
+footer ul {
+    display: block;
+    list-style-type: none;   
+    margin-left: 45%;
+}
+
+footer li {
+    float: left;
+}
+
+.fa-facebook{
+    color: #4267B2;
 }
 
 p>a:hover {
