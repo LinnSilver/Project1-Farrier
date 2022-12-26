@@ -1,33 +1,29 @@
-
 # **Elin Bard Farrier**
-#### Infoga hyler länk
 
 Elin Bard is a farrier whose catchment area is around Töreboda in the middle of Sweden. The website informs new and existing customers about Elin, which services she primarily provides, her education and experience. An important purpose of the website is that it should be easy to find contact details and prices.
 
+#### [View the live project here](https://8000-linnsilver-project1farr-bhwvuwqk3sr.ws-eu80.gitpod.io/index.html)
 
+## ![Am I Responsive img?](assets/images/readme-images/am-i-responsiv.jpg)
 
-## Am I Responsive?[Shows page responsiv](https://amiresponsive.co.uk/)
-
-### UX User experiens / User storries
+## UX User experience
+The purpose of the webpage is primarily to make it easy for customers to make a contact. The navigation is as expected, easily accessed from the top of every page and links to social media are located at the bottom together with a phone number. The design of the page is peeled off, with warm and earth colors to make visitors feel welcome, the main orange, that is both in the hero image and in navigation, holds the design together.
 
 ## Features
 #### Top navigation
-Centered links that change color to red when hovered over. The active link's name will be red to let the user know which page they are currently on.
-#### Hero image on home page
-Changes image for display depending on screen size. Alt text is added for screen readers or unresolved image files.
-#### Home page
-Tells user short about services provided, the importance of a good education, experience.
-#### The About side
-Tells the user in which area services are provided. Which educations Elin has completed and a brief background history.
+Centered just under the logo on all pages, the visitor will find the top navigation bar. The links change color to red when hovered over. The page that is currently displayed is marked with a red link so that the user can easily see which page they are currently on.
+[Top navigation](assets/images/readme-images/top-navigation.jpg)
 #### Price list
 Holds a four column list with prices both with and without tax. Company customers want prices without taxes and private customers needs the price including tax. Price list for 2022. With reservation for changes.
+[Price list](assets/images/readme-images/prices.jpg)
 #### Contact form
 With some additional information for the customer that if she/he likes, it's perfectly fine to send a text message on phone number.
+[Contact form](assets/images/readme-images/contact-form.jpg)
 #### Footer
 Contain an easy to find phone number and  media links to Facebook and Instagram.  The external links will open a new page, the aria-label inform of this.
+[Footer](assets/images/readme-images/footer.jpg)
 ### Features to implement later
 Clicking the logo returns users to the home page.
-
 
 ## Tecnologies
 ### Languages Used
