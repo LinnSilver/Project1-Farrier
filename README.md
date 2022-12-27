@@ -97,11 +97,9 @@ Clicking the logo returns users to the home page.
 - Facebook link opens in new tab. (currently a placeholder for the real social media page) Tested on every page. Result -Pass.
 - Instagram link opens in new tab. (currently a placeholder for the real social media page) Tested on every page. Result -Pass.
  
-
 Found that link in footer on Contact to Home was replaced with link to contact. Changed back to linking to home.
 
 Found that on alt img to hero img, width="100%" generated error in HTML validator changed to style="width:100%" solved problem.
-
 
 ## Deployment
 Create a Github repository. [How to set up Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
@@ -124,8 +122,7 @@ After every change in the code its important to redo the test section. Go throug
 - Mobile Compatibility
 - Manual testing
 
-
-## Credits?
+## Credits
 ### Content
  All content was written by the developer.
 ### Media
@@ -135,4 +132,4 @@ After every change in the code its important to redo the test section. Go throug
 - Favicon -For favicon icon on tab.
 
 ### Acknowledgments
-Thanks to Brian and Love Silver.
+Thanks to Brian
