@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 # **Elin Bard Farrier**
 
 Elin Bard is a farrier whose catchment area is around Töreboda in the middle of Sweden. The website informs new and existing customers about Elin, which services she primarily provides, her education and experience. An important purpose of the website is that it should be easy to find contact details and prices.
@@ -38,9 +35,14 @@ Clicking the logo returns users to the home page.
 -  CSS
 ## Testing
 HTML **W3C tools**
+## ![Home page](assets/images/readme-images/html-check-home.jpg)
+[About](assets/images/readme-images/html-check-about.jpg)
+[Prices](assets/images/readme-images/html-check-prices.jpg)
+[Contact](assets/images/readme-images/html-check-contakt.jpg)
 
 CSS **W3C tools** 
 ## ![CSS validation](assets/images/readme-images/css-validation.jpg)
+
 Lighthouse In DevTools
 ## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
 ### Browser Compatibility
