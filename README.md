@@ -48,7 +48,7 @@ Clicking the logo returns users to the home page.
 - Lighthouse In DevTools
 ## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
 ### Browser Compatibility
--  Following browsers has been  tested  :
+-  Following browsers has been tested:
     - Chrome Version 108.0.5359.125 
     - Mozilla Firefox Version 108.0.1
     - Edge Version 108.0.1462.54
@@ -104,14 +104,26 @@ Found that on alt img to hero img, width="100%" generated error in HTML validato
 
 
 ## Deployment
+Create a Github repository. [How to set up Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- Choose:  …or import code from another repository.
+- Paste: Repository clone address. Start importing.
 
-1.   [How to set up Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-    
-2.  [How to Commit and push code from lokal file system to Github Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
-    
-3.  how one might clone and run it locally. An example of how someone’s written (2) and (3) before can be found [here](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive).
+To access code:
+- In GitHub, select repository. 
+- Click the green Gitpod button. 
+- The code opens in gitpod.io
 
-4. What to test after making changes.
+It's important to commit and push correctly. Read more here:
+- [How to Commit and push code from lokal file system to Github Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
+
+After every change in the code its important to redo the test section. Go through:
+- HTML **W3C tools**
+- CSS  **W3C tools**
+- Lighthouse In DevTools
+- Browser Compatibility
+- Mobile Compatibility
+- Manual testing
+
 
 ## Credits?
 ### Content
