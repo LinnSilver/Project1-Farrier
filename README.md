@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+
 # **Elin Bard Farrier**
 
 Elin Bard is a farrier whose catchment area is around Töreboda in the middle of Sweden. The website informs new and existing customers about Elin, which services she primarily provides, her education and experience. An important purpose of the website is that it should be easy to find contact details and prices.
@@ -12,23 +15,19 @@ The purpose of the webpage is primarily to make it easy for customers to make a 
 ## Features
 #### Top navigation
 Centered just under the logo on all pages, the visitor will find the top navigation bar. The links change color to red when hovered over. The page that is currently displayed is marked with a red link so that the user can easily see which page they are currently on.
-
-[Top navigation](assets/images/readme-images/top-navigation.jpg)
+## ![Top navigation](assets/images/readme-images/top-navigation.jpg)
 
 #### Price list
 Holds a four column list with prices both with and without tax. Company customers want prices without taxes and private customers needs the price including tax. Price list for 2022. With reservation for changes.
-
-[Price list](assets/images/readme-images/prices.jpg)
+## ![Price list](assets/images/readme-images/prices.jpg)
 
 #### Contact form
 With some additional information for the customer that if she/he likes, it's perfectly fine to send a text message on phone number.
-
-[Contact form](assets/images/readme-images/contact-form.jpg)
+## ![Contact form](assets/images/readme-images/contact-form.jpg)
 
 #### Footer
 Contain an easy to find phone number and  media links to Facebook and Instagram.  The external links will open a new page, the aria-label inform of this.
-
-[Footer](assets/images/readme-images/footer.jpg)
+## ![Footer](assets/images/readme-images/footer.jpg)
 
 ### Features to implement later
 Clicking the logo returns users to the home page.
@@ -39,9 +38,11 @@ Clicking the logo returns users to the home page.
 -  CSS
 ## Testing
 HTML **W3C tools**
+
 CSS **W3C tools** 
-assets/images/readme-images/css-validation.png
+## ![CSS validation](assets/images/readme-images/css-validation.jpg)
 Lighthouse In DevTools
+## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
 ### Browser Compatibility
 -  Following browsers has been  tested  :
     - Chrome Version 
