@@ -29,7 +29,7 @@ Contain an easy to find phone number and  media links to Facebook and Instagram.
 ### Features to implement later
 Clicking the logo returns users to the home page.
 
-## Tecnologies
+## Technologies
 ### Languages Used
 - HTML
 - CSS
@@ -47,17 +47,16 @@ Clicking the logo returns users to the home page.
 
 - Lighthouse In DevTools
 ## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
-### Browser Compatibility
--  Following browsers has been tested:
+### Browser Compatibility, following browsers has been tested:
     - Chrome Version 108.0.5359.125 
     - Mozilla Firefox Version 108.0.1
     - Edge Version 108.0.1462.54
     - Opera Version 89.0.4447.91
     - Safari on macOS Version 16.1
-### Mobile Compatibility
- - iphone  5 / se
+### Mobile Compatibility, following mobiles has been tested:
+ - iPhone 5 / se
  - Samsung
- - Huawei
+ - Huawei P20 pro
  
 ### Manual testing
 #### Top menu
@@ -67,15 +66,15 @@ Clicking the logo returns users to the home page.
 - Mouse hover over Contact makes link go red. Tested on every page. Result -Pass.
 ####
 ####
-- Clicking Home navigates to home and menu link to home is red when on home. Result -Pass.
-- Clicking About navigates to about and menu link to about is red when on about. Result -Pass.
-- Clicking Prices navigates to prices and menu link to prices is red when on prices. Result -Pass.
-- Clicking Contact navigates to contact and menu link to contact is red when on contact. Result -Pass.
+- Clicking Home navigates to home, and the menu link to home is red when on home. Result -Pass.
+- Clicking About navigates to about, and the menu link to about is red when on about. Result -Pass.
+- Clicking Prices navigates to prices, and the menu link to prices is red when on prices. Result -Pass.
+- Clicking Contact navigates to contact, and the menu link to contact is red when on contact. Result -Pass.
 
 #### Contact form
 - Mouse hover over input field Name, makes a sign pop up to tell that input field must be filled out. Result -Pass.
 - Mouse hover over input field Number, makes a sign pop up to tell that input field must be filled out. Result -Pass.
-- Mouse hover over input field Email, makes a sign pop up to tell that input field must be filled out. Result -Pass.
+- Mouse hover over input field Email, makes an sign pop up to tell that input field must be filled out. Result -Pass.
 - Mouse hover over text area Information, makes a sign pop up to tell that input field must be filled out. Result -Pass.
 ####
 ####
@@ -114,7 +113,7 @@ To access code:
 It's important to commit and push correctly. Read more here:
 - [How to Commit and push code from lokal file system to Github Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
 
-After every change in the code its important to redo the test section. Go through:
+After every change in the code, it's important to redo the test section. Go through:
 - HTML **W3C tools**
 - CSS  **W3C tools**
 - Lighthouse In DevTools
@@ -124,12 +123,10 @@ After every change in the code its important to redo the test section. Go throug
 
 ## Credits
 ### Content
- All content was written by the developer.
+All content on this webpage was written by the developer.
 ### Media
 - All images were downloaded from [Freeimages.com](https://www.freeimages.com/photo/silhouette-of-a-horse-at-sunset-1640166)
 - Google font -Font type.
 - Fontawesome. -For media link icons.
 - Favicon -For favicon icon on tab.
 
-### Acknowledgments
-Thanks to Brian
