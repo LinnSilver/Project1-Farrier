@@ -57,10 +57,14 @@ Clicking the logo returns users to the home page.
     - Edge Version 108.0.1462.54
     - Opera Version 89.0.4447.91
     - Safari on macOS Version 16.1
-### Mobile Compatibility, following mobiles has been tested:
- - iPhone 5 / se
+### Mobile responsiveness testing. Chrome Developer tools were used for more extensive testing.
+Following mobiles has been tested:
+ - iPhone 5 / SE
+ - iPhone 7
+ - iPhone Pro Max
  - Samsung
  - Huawei P20 pro
+
  
 ### Manual testing
 #### Top menu
