@@ -23,7 +23,6 @@ h2 {
 }
 
 h3 {
- 
     line-height: 2rem;
 }
 
@@ -36,13 +35,6 @@ hr {
 }
 
 /* Top navigation */
-a {
-    color: #fc9139;
-    font-size: 90%;
-    margin-right: 10px;
-    text-decoration: none;
-}
-
 nav {
     text-align: center;
     padding: 12px;
@@ -50,6 +42,14 @@ nav {
 
 .active_page {
     color: rgb(252, 6, 6);
+}
+
+/* Navigation */
+a {
+    color: #fc9139;
+    font-size: 90%;
+    margin-right: 10px;
+    text-decoration: none;
 }
 
 nav>a:hover {
@@ -132,10 +132,6 @@ footer {
     color: #b347f1;
 }
 
-p>a:hover {
-    color: rgb(252, 6, 6);
-}
-
 /* Media queries */
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -157,17 +153,14 @@ p>a:hover {
     /* Price list */
     .first {
         text-align: left;
-
     }
 
     .second {
         padding-left: 20px;
-
     }
 
     .third {
         padding-left: 20px;
-
     }
 
     .fourth {
