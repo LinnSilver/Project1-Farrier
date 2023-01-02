@@ -74,7 +74,7 @@ Following mobiles has been tested:
  - iPhone 5 / SE
  - iPhone 7
  - iPhone Pro Max
- - Samsung
+ - Samsung Galaxy a52s
  - Huawei P20 pro
 
 ### Manual testing
@@ -82,9 +82,8 @@ Following mobiles has been tested:
 - Mouse hover over Home makes link go red. Tested on every page. Result -Pass.
 - Mouse hover over About makes link go red. Tested on every page. Result -Pass.
 - Mouse hover over Prices makes link go red. Tested on every page. Result -Pass.
-- Mouse hover over Contact makes link go red. Tested on every page. Result -Pass.
-####
-####
+- Mouse hover over Contact makes link go red. Tested on every page. Result -Pass.   
+
 - Clicking Home navigates to home, and the menu link to home is red when on home. Result -Pass.
 - Clicking About navigates to about, and the menu link to about is red when on about. Result -Pass.
 - Clicking Prices navigates to prices, and the menu link to prices is red when on prices. Result -Pass.
@@ -164,4 +163,4 @@ All content on this webpage was written by the developer.
 - - Favicon -Favicon icon on tab was produced with Favicon.
 
 ### Acknowledgments
-Thank my mentor, Brian. For Your support and guidance. Your great knowledge and commitment during this project has made my project better and more enjoyable.
+Thank you to my mentor Brian Macharia. For Your support and guidance. Your great knowledge and commitment during this project has made my project better and more enjoyable.
