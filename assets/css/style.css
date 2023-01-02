@@ -1,260 +1,263 @@
-@import url('https://fonts.googleapis.com/css2?family=Chivo&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Chivo&display=swap");
 
 body {
-    font-family: 'Chivo', sans-serif;
-    font-size: 1rem;
-    line-height: 1.5rem;
-    letter-spacing: 0.06rem;
-    padding: 10px;
-    background-color: black;
-    color: #f5e5d4;
+ font-family: "Chivo", sans-serif;
+ font-size: 1rem;
+ line-height: 1.5rem;
+ letter-spacing: 0.06rem;
+ padding: 10px;
+ background-color: black;
+ color: #f5e5d4;
 }
 
 h1 {
-    color: #fc9139;
-    font-size: 300%;
-    letter-spacing: 0.25rem;
-    font-weight: bold;
-    text-align: center;
+ color: #fc9139;
+ font-size: 300%;
+ letter-spacing: 0.25rem;
+ font-weight: bold;
+ text-align: center;
 }
 
 h2 {
-    line-height: 2.5rem;
+ line-height: 2.5rem;
 }
 
 h3 {
-    line-height: 2rem;
+ line-height: 2rem;
 }
 
 h4 {
-    line-height: 1.5rem;
+ line-height: 1.5rem;
 }
 
 hr {
-    margin-top: 25px;
-}
-
-input, textarea {
-    font-size: inherit;
-    font-family: inherit;
+ margin-top: 25px;
 }
 
 /* Top navigation */
 nav {
-    text-align: center;
-    padding: 12px;
+ text-align: center;
+ padding: 12px;
 }
 
 .active_page {
-    color: rgb(252, 6, 6);
+ color: rgb(252, 6, 6);
 }
 
 /* Navigation */
 a {
-    color: #fc9139;
-    font-size: 90%;
-    margin-right: 10px;
-    text-decoration: none;
+ color: #fc9139;
+ font-size: 90%;
+ margin-right: 10px;
+ text-decoration: none;
 }
 
-nav>a:hover {
-    color: rgb(252, 6, 6);
+nav > a:hover {
+ color: rgb(252, 6, 6);
 }
 
 /* All images, not including head image */
 .picture {
-    display: block;
-    width: 100%;
-    aspect-ratio: 4/2;
-    object-fit: cover;
+ display: block;
+ width: 100%;
+ aspect-ratio: 4/2;
+ object-fit: cover;
 }
 
 /* Price list */
 .first {
-    text-align: left;
-    padding-bottom: 7px;
+ text-align: left;
+ padding-bottom: 7px;
 }
 
 .second {
-    padding-left: 7px;
-    padding-bottom: 7px;
+ padding-left: 7px;
+ padding-bottom: 7px;
 }
 
 .third {
-    padding-left: 7px;
-    padding-bottom: 7px;
+ padding-left: 7px;
+ padding-bottom: 7px;
 }
 
 .fourth {
-    padding-left: 7px;
-    padding-bottom: 7px;
+ padding-left: 7px;
+ padding-bottom: 7px;
 }
 
 /* For contact form */
-label, input, textarea {
-    display: block;
-    align-items: center;
-    width: 85%;
-    max-width: 400px;
-    padding: 10px 15px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
+label,
+input,
+textarea {
+ display: block;
+ align-items: center;
+ width: 85%;
+ max-width: 400px;
+ padding: 10px 15px;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: left;
+}
+
+input,
+textarea {
+ font-size: inherit;
+ font-family: inherit;
 }
 
 label {
-    margin-top: 10px;
+ margin-top: 10px;
 }
 
 .required:after {
-    content:' *';
-    color: red;
+ content: " *";
+ color: red;
 }
 
 #contact_button {
-    width: 80px;
-    height: 40px;
-    border-radius: 4px;
-    text-align: center;
-    margin-top: 20px;
-    background-color: #f5e5d4;
-    font-size: 1rem;
-    font-weight: 500;
+ width: 80px;
+ height: 40px;
+ border-radius: 4px;
+ text-align: center;
+ margin-top: 20px;
+ background-color: #f5e5d4;
+ font-size: 1rem;
+ font-weight: 500;
 }
 
 /* Footer */
 footer {
-    text-align: center;
-    font-weight: bold;
-    padding: 10px;
+ text-align: center;
+ font-weight: bold;
+ padding: 10px;
 }
 
 .fa-facebook {
-    color: #4267B2;
+ color: #4267b2;
 }
 
 .fa-instagram {
-    color: #b347f1;
+ color: #b347f1;
 }
 
 /* Media queries */
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-    section {
-        font-size: 1rem;
-        letter-spacing: 0.063rem;
-    }
+ section {
+  font-size: 1rem;
+  letter-spacing: 0.063rem;
+ }
 
-    .picture {
-        display: block;
-    }
+ .picture {
+  display: block;
+ }
 
-    div {
-        margin-right: 15%;
-        margin-left: 15%;
-    }
+ div {
+  margin-right: 15%;
+  margin-left: 15%;
+ }
 
-    /* Price list */
-    .first {
-        text-align: left;
-    }
+ /* Price list */
+ .first {
+  text-align: left;
+ }
 
-    .second {
-        padding-left: 20px;
-    }
+ .second {
+  padding-left: 20px;
+ }
 
-    .third {
-        padding-left: 20px;
-    }
+ .third {
+  padding-left: 20px;
+ }
 
-    .fourth {
-        padding-left: 20px;
-    }
+ .fourth {
+  padding-left: 20px;
+ }
 }
 
 /* Large devices */
 @media only screen and (min-width: 1200px) {
-    section {
-        font-size: 110%;
-        letter-spacing: 0.125rem;
-    }
+ section {
+  font-size: 110%;
+  letter-spacing: 0.125rem;
+ }
 
-    /* Navigation */
-    a {
-        font-size: 110%;
-    }
+ /* Navigation */
+ a {
+  font-size: 110%;
+ }
 
-    .picture {
-        display: block;
-    }
+ .picture {
+  display: block;
+ }
 
-    div {
-        margin-right: 25%;
-        margin-left: 25%;
-    }
+ div {
+  margin-right: 25%;
+  margin-left: 25%;
+ }
 
-    /* Price list */
-    .first {
-        text-align: left;
-        padding-bottom: 10px;
-    }
+ /* Price list */
+ .first {
+  text-align: left;
+  padding-bottom: 10px;
+ }
 
-    .second {
-        padding-left: 20px;
-        padding-bottom: 10px;
-    }
+ .second {
+  padding-left: 20px;
+  padding-bottom: 10px;
+ }
 
-    .third {
-        padding-left: 20px;
-        padding-bottom: 10px;
-    }
+ .third {
+  padding-left: 20px;
+  padding-bottom: 10px;
+ }
 
-    .fourth {
-        padding-left: 20px;
-        padding-bottom: 10px;
-    }
+ .fourth {
+  padding-left: 20px;
+  padding-bottom: 10px;
+ }
 }
 
 /* Extra large devices */
 @media only screen and (min-width: 1920px) {
-    section {
-        font-size: 125%;
-        letter-spacing: 0.125rem;
-    }
+ section {
+  font-size: 125%;
+  letter-spacing: 0.125rem;
+ }
 
-    /* Navigation */
-    a {
-        font-size: 120%;
-    }
+ /* Navigation */
+ a {
+  font-size: 120%;
+ }
 
-    .picture {
-        display: block;
-    }
+ .picture {
+  display: block;
+ }
 
-    div {
-        margin-right: 30%;
-        margin-left: 30%;
-    }
-   
-    /* Price list */
-    .first {
-        text-align: left;
-        padding-bottom: 20px;
-    }
+ div {
+  margin-right: 30%;
+  margin-left: 30%;
+ }
 
-    .second {
-        padding-left: 30px;
-        padding-bottom: 20px;
-    }
+ /* Price list */
+ .first {
+  text-align: left;
+  padding-bottom: 20px;
+ }
 
-    .third {
-        padding-left: 30px;
-        padding-bottom: 20px;
-    }
+ .second {
+  padding-left: 30px;
+  padding-bottom: 20px;
+ }
 
-    .fourth {
-        padding-left: 30px;
-        padding-bottom: 20px;
-    }
+ .third {
+  padding-left: 30px;
+  padding-bottom: 20px;
+ }
+
+ .fourth {
+  padding-left: 30px;
+  padding-bottom: 20px;
+ }
 }
