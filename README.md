@@ -1,6 +1,6 @@
 # **Elin Bard Farrier**
 
-#### [View the live project here](https://8000-linnsilver-project1farr-bhwvuwqk3sr.ws-eu80.gitpod.io/index.html)
+#### [View the live project here](https://linnsilver.github.io/Project1-Farrier/)
 
 Elin Bard is a farrier whose catchment area is around Töreboda in the middle of Sweden. The website informs new and existing customers about Elin, which services she primarily provides, her education and experience. An important purpose of the website is that it should be easy to find contact details and prices.
 
