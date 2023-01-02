@@ -30,9 +30,13 @@ Contain an easy to find phone number and  media links to Facebook and Instagram.
 Clicking the logo returns users to the home page.
 
 ## Technologies
-### Languages Used
 - HTML
 - CSS
+- Github
+- Github Pages
+- Gitpod
+- Google Fonts
+- FontAwesome
 
 ## Testing
 - HTML **W3C tools**
@@ -99,6 +103,8 @@ Clicking the logo returns users to the home page.
 Found that link in footer on Contact to Home was replaced with link to contact. Changed back to linking to home.
 
 Found that on alt img to hero img, width="100%" generated error in HTML validator changed to style="width:100%" solved problem.
+
+Found that text in contact form was displayed as disproportionately small in Safari. Added a CSS rule for the same font family and size in the form.
 
 ## Deployment
 Create a Github repository. [How to set up Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)

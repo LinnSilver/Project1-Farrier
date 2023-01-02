@@ -34,6 +34,11 @@ hr {
     margin-top: 25px;
 }
 
+input, textarea {
+    font-size: inherit;
+    font-family: inherit;
+}
+
 /* Top navigation */
 nav {
     text-align: center;
