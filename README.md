@@ -51,12 +51,22 @@ Clicking the logo returns users to the home page.
 
 - Lighthouse In DevTools
 ## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
-### Browser Compatibility, following browsers has been tested:
-    - Chrome Version 108.0.5359.125 
-    - Mozilla Firefox Version 108.0.1
-    - Edge Version 108.0.1462.54
-    - Opera Version 89.0.4447.91
-    - Safari on macOS Version 16.1
+### Browser Compatibility 
+
+Following mobiles has been tested:
+ - Chrome Version 108.0.5359.125
+ - Chrome Version 108.0.5359.125
+ - Mozilla Firefox Version 108.0.1
+ - Edge Version 108.0.1462.54
+ - Opera Version 89.0.4447.91
+ - Safari on macOS Version 16.1
+
+ Tested on hardware:
+ - Asus 17 inch
+ - Macbook Pro 16 inch
+ - Macbook Pro 15 inch
+ - Desktop: 2560 wide monitor to macbook 
+
 ### Mobile responsiveness testing. Chrome Developer tools were used for more extensive testing.
 Following mobiles has been tested:
  - iPhone 5 / SE
@@ -65,7 +75,6 @@ Following mobiles has been tested:
  - Samsung
  - Huawei P20 pro
 
- 
 ### Manual testing
 #### Top menu
 - Mouse hover over Home makes link go red. Tested on every page. Result -Pass.
@@ -104,11 +113,10 @@ Following mobiles has been tested:
 - Facebook link opens in new tab. (currently a placeholder for the real social media page) Tested on every page. Result -Pass.
 - Instagram link opens in new tab. (currently a placeholder for the real social media page) Tested on every page. Result -Pass.
  
-Found that link in footer on Contact to Home was replaced with link to contact. Changed back to linking to home.
-
-Found that on alt img to hero img, width="100%" generated error in HTML validator changed to style="width:100%" solved problem.
-
-Found that text in contact form was displayed as disproportionately small in Safari. Added a CSS rule for the same font family and size in the form.
+ Found and fix bugs: 
+- Found that link in footer on Contact to Home was replaced with link to contact. Changed back to linking to home.
+- Found that on alt img to hero img, width="100%" generated error in HTML validator changed to style="width:100%" solved problem.
+- Found that text in contact form was displayed as disproportionately small in Safari on macOS. Added a CSS rule for the same font family and size in the form.
 
 ## Deployment
 Create a Github repository. [How to set up Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
