@@ -53,7 +53,7 @@ Clicking the logo returns users to the home page.
 ## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
 ### Browser Compatibility 
 
-Following mobiles has been tested:
+The following browsers have been tested:
  - Chrome Version 108.0.5359.125
  - Chrome Version 108.0.5359.125
  - Mozilla Firefox Version 108.0.1
