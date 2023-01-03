@@ -19,11 +19,11 @@ Holds a four column list with prices both with and without tax. Company customer
 ## ![Price list](assets/images/readme-images/prices.jpg)
 
 ### Contact form
-With some additional information for the customer that if she/he likes, it's perfectly fine to send a text message on phone number.
+The contact form gives the user the opportunity to ask to be contacted. The user is asked to provide their name, phone number, email address and some additional information about their hours, when sending a message. The red star* tells the user that the information is required to fill in, to send the message. Sending the message will result in a new tab (at the moment the user is shown the formdump.codeinstitute.net page with the data they submitted displayed) showing the form result.
 ## ![Contact form](assets/images/readme-images/contact-form.jpg)
 
 ### Footer
-Contain an easy to find phone number and media links to Facebook and Instagram.  The external links will open a new page, the aria-label inform of this.
+Contain an easy to find phone number and media links to Facebook and Instagram.  The external links will open in a new page, the aria-label inform of this. (At the moment, the media links will open the company start page.)
 ## ![Footer](assets/images/readme-images/footer.jpg)
 
 ### Features to implement later
@@ -62,7 +62,7 @@ The following browsers have been tested:
  - Safari on macOS Version 16.1
 
  Tested on hardware:
- - Asus 17 inch
+ - Asus laptop 17 inch
  - MacBook Pro 16 inch
  - MacBook Pro 15 inch
  - Desktop: 2560 wide monitor to MacBook 
@@ -120,8 +120,8 @@ Following mobiles has been tested:
 
 ## Deployment
 Create a [fork of the repository.](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)
-1. Log in to GitHub and go to repository: [Farrier](https://github.com/LinnSilver/Project1-Farrier)
-2. Click button fork.
+1. Log in to GitHub and go to repository: LinnSilver/Project1-Farrier
+2. Click button fork -Create a new fork.
 3. Choose repository name.
 4. Click create fork.
 
@@ -129,7 +129,7 @@ Create a [fork of the repository.](https://docs.github.com/en/get-started/quicks
  
 5. In your new repository:
 6. Click green button Code arrow down.
-7. Choose Codespace - Code is opened in a web codespace.
+7. Choose: Creat codespace on main - Code is opened in a web codespace.
 
 Now you have a fork of the repository in your repository.
 To save a copy locally on your computer:
@@ -139,7 +139,8 @@ To save a copy locally on your computer:
 11. Copy the URL for the repository.
 12. Open Git Bash.
 13. Change the current working directory to the location where you want the cloned directory.
-14. Type  `git clone`, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of  `YOUR-USERNAME`:
+14. Type  `git clone`, and then paste the URL you copied earlier.
+15. Press Enter. Your local clone will be created.
 
 It's important to commit and push correctly. Read more here:
 - [How to Commit and push code from local file system to GitHub Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
@@ -158,9 +159,9 @@ After every change in the code, it's important to redo the test section. Go thro
 All content on this webpage was written by the developer.
 ### Media
 - All images were downloaded from [Freeimages.com](https://www.freeimages.com/photo/silhouette-of-a-horse-at-sunset-1640166)
-- - Google font -Font type Chivo is imported from Google font.
+- Google font -Font type Chivo is imported from Google font.
 - Font awesome -Provided media link icons.
-- - Favicon -Favicon icon on tab was produced with Favicon.
+- Favicon -Favicon icon on tab was produced with Favicon.
 
 ### Acknowledgments
 Thank you to my mentor Brian Macharia. For Your support and guidance. Your great knowledge and commitment during this project has made my project better and more enjoyable.
