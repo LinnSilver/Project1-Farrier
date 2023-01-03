@@ -52,7 +52,6 @@ Clicking the logo returns users to the home page.
 - Lighthouse In DevTools
 ## ![CSS validation](assets/images/readme-images/lighthouse.jpg)
 ### Browser Compatibility 
-
 The following browsers have been tested:
  - Chrome Version 108.0.5359.125
  - Chrome Version 108.0.5359.125
@@ -104,7 +103,6 @@ Following mobiles has been tested:
 ## ![Validated info](assets/images/readme-images/contact-form-validation.jpg)
 
 #### Footer
-
 - Mouse hover over Contact makes link go red. Tested on every page. Result -Pass.
 - Clicking Contact navigates to contact. Tested on every page. Result -Pass.
 - When on contact, mouse hover over Home makes link go red. Result -Pass.
@@ -125,16 +123,16 @@ Create a [fork of the repository.](https://docs.github.com/en/get-started/quicks
 3. Choose repository name.
 4. Click create fork.
 
- Now you have a copy on your repository. To access code:
+Now you have a fork of the repository in your repository. To access code:
  
 5. In your new repository:
 6. Click green button Code arrow down.
 7. Choose: Creat codespace on main - Code is opened in a web codespace.
 
-Now you have a fork of the repository in your repository.
+Right now you do not have the files in the repository locally on your computer.
 To save a copy locally on your computer:
  
-9.  On GitHub.com, navigate to **your fork** of the repository.
+9. On GitHub.com, navigate to **your fork** of the repository.
 10. Above the list of files, click **Code**, Local.
 11. Copy the URL for the repository.
 12. Open Git Bash.
@@ -143,8 +141,7 @@ To save a copy locally on your computer:
 15. Press Enter. Your local clone will be created.
 
 It's important to commit and push correctly. Read more here:
-- [How to Commit and push code from local file system to GitHub Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)
-
+- [How to Commit and push code from local file system to GitHub Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project)
 
 After every change in the code, it's important to redo the test section. Go through:
 - HTML **W3C tools**
@@ -157,8 +154,9 @@ After every change in the code, it's important to redo the test section. Go thro
 ## Credits
 ### Content
 All content on this webpage was written by the developer.
+
 ### Media
-- All images were downloaded from [Freeimages.com](https://www.freeimages.com/photo/silhouette-of-a-horse-at-sunset-1640166)
+- Freeimages. All images were downloaded from [Freeimages.com](https://www.freeimages.com/photo/silhouette-of-a-horse-at-sunset-1640166)
 - Google font -Font type Chivo is imported from Google font.
 - Font awesome -Provided media link icons.
 - Favicon -Favicon icon on tab was produced with Favicon.
