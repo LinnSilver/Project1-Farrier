@@ -26,6 +26,10 @@ The contact form gives the user the opportunity to ask to be contacted. The user
 Contain an easy to find phone number and media links to Facebook and Instagram.  The external links will open in a new page, the aria-label inform of this. (At the moment, the media links will open the company start page.)
 ## ![Footer](assets/images/readme-images/footer.jpg)
 
+### Favicon
+Favicon icon on the tab in the browser. Makes it easier for the user to find the page if there are many open tabs.
+## ![Favicon](assets/images/readme-images/favicon-icon.jpg)
+
 ### Features to implement later
 Clicking the logo returns users to the home page.
 
