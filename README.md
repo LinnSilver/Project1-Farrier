@@ -15,7 +15,7 @@ Centered just under the logo on all pages, the visitor will find the top navigat
 ## ![Top navigation](assets/images/readme-images/top-navigation.jpg)
 
 ### Price list
-Holds a four column list with prices both with and without tax. Company customers want prices without taxes and private customers needs the price including tax. Price list for 2022. With reservation for changes.
+The price list is four columns with prices both with and without tax. Company customers want prices without taxes and private customers needs the price including tax. Price list for 2023. With reservation for changes.
 ## ![Price list](assets/images/readme-images/prices.jpg)
 
 ### Contact form
@@ -75,6 +75,7 @@ Following mobiles has been tested:
  - iPhone Pro Max
  - Samsung Galaxy a52s
  - Huawei P20 pro
+ - Sony Xperia 5 III
 
 ### Manual testing
 #### Top menu
@@ -126,14 +127,14 @@ Create a [fork of the repository.](https://docs.github.com/en/get-started/quicks
 Now you have a fork of the repository in your repository. To access code:
  
 5. In your new repository:
-6. Click green button Code arrow down.
+6. Click green button: Code arrow down.
 7. Choose: Creat codespace on main - Code is opened in a web codespace.
 
 Right now you do not have the files in the repository locally on your computer.
 To save a copy locally on your computer:
  
-9. On GitHub.com, navigate to **your fork** of the repository.
-10. Above the list of files, click **Code**, Local.
+9. On GitHub.com, navigate to your fork of the repository.
+10. Above the list of files, click Code, Local.
 11. Copy the URL for the repository.
 12. Open Git Bash.
 13. Change the current working directory to the location where you want the cloned directory.
@@ -144,8 +145,8 @@ It's important to commit and push correctly. Read more here:
 - [How to Commit and push code from local file system to GitHub Pages.](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project)
 
 After every change in the code, it's important to redo the test section. Go through:
-- HTML **W3C tools**
-- CSS **W3C tools**
+- HTML W3C tools
+- CSS W3C tools
 - Lighthouse In DevTools
 - Browser Compatibility
 - Mobile Compatibility
