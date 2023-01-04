@@ -90,12 +90,12 @@ Following mobiles has been tested:
 - Clicking Contact navigates to contact, and the menu link to contact is red when on contact. Result -Pass.
 
 #### Contact form
-- Mouse hover over input field Name, makes a sign pop up to tell that input field must be filled out. Result -Pass.
-- Mouse hover over input field Number, makes a sign pop up to tell that input field must be filled out. Result -Pass.
-- Mouse hover over input field Email, makes a sign pop up to tell that input field must be filled out. Result -Pass.
-- Mouse hover over text area Information, makes a sign pop up to tell that input field must be filled out. Result -Pass.  
+- Mouse hover over input field Name, makes a sign pop up, asking the user to fill in the field. Result -Pass.
+- Mouse hover over input field Number, makes a sign pop up, asking the user to fill in the field. Result -Pass.
+- Mouse hover over input field Email, makes a sign pop up, asking the user to fill in the field. Result -Pass.
+- Mouse hover over text area Information, makes a sign pop up, asking the user to fill in the field. Result -Pass.
 
-- Attempting to submit the form without entering something in name results in a browser error message. Result -Pass.
+- Attempting to submit the form without entering something in Name results in a browser error message. Result -Pass.
 - Attempting to submit the form without entering something in Number results in a browser error message. Result -Pass.
 - Attempting to submit the form without entering an email that contain the appropriate tokens results in a browser error message. Result -Pass.
 - Attempting to submit the form without entering something in, Information about your horse, results in a browser error message. Result -Pass.   
@@ -114,7 +114,7 @@ Following mobiles has been tested:
  
  #### Found and fix bugs: 
 - Found that link in footer on Contact to Home was replaced with link to contact. Changed back to linking to home.
-- Found that on alt img to hero img, width="100%" generated error in HTML validator changed to style="width:100%" solved problem.
+- Found that on alt img to hero  image, width="100%" generated error in HTML validator changed to style="width:100%" solved problem.
 - Found that text in contact form was displayed as disproportionately small in Safari on macOS. Added a CSS rule for the same font family and size in the form.
 
 ## Deployment
@@ -122,15 +122,15 @@ Create a [fork of the repository.](https://docs.github.com/en/get-started/quicks
 1. Log in to GitHub and go to repository: LinnSilver/Project1-Farrier
 2. Click button fork -Create a new fork.
 3. Choose repository name.
-4. Click create fork.
+4. Click Create fork.
 
 Now you have a fork of the repository in your repository. To access code:
  
 5. In your new repository:
 6. Click green button: Code arrow down.
-7. Choose: Creat codespace on main - Code is opened in a web codespace.
+7. Choose: Create codespace on main - Code is opened in a web codespace.
 
-Right now you do not have the files in the repository locally on your computer.
+After this, you do not have the files in the repository locally on your computer.
 To save a copy locally on your computer:
  
 9. On GitHub.com, navigate to your fork of the repository.
